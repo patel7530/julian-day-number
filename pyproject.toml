@@ -1,6 +1,6 @@
 [project]
 name = "julian-day-number"
-version = "0.1.0"
+version = "0.1.1"
 description = "Translates Gregorian calendar dates into the continuous day-count system employed by astronomers and historians."
 requires-python = ">=3.10"
 dependencies = []
